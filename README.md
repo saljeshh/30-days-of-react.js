@@ -1,4 +1,4 @@
-# 21 Days of Learning and Sharing React.js
+# 30 Days of Learning and Sharing React.js
 
 <p align="center">
     <img src="./Assets/logo.png" width="90%">
@@ -9,7 +9,7 @@
 | Udemy     | https://www.udemy.com/course/the-ultimate-react-course/ |
 | Docs      | https://react.dev/learn                                 |
 
-## Day 1 of 21 days of React.js
+## Day 1 of 30 days of React.js
 
 - As i already knew about react and components that i learnt before. I jumped to react official documentation and started to learn by doing, i.e doing project.
 - I made a tic-tac toe game with React.js by following docs.
@@ -28,7 +28,7 @@
     <img src="./Assets/day1/output-1.png" width="100%">
 </p>
 
-# Day 2 of 21 days of React.js
+# Day 2 of 30 days of React.js
 
 - I am starting to learn from udemy from this day.
 - This is module 3 - working with react components.
@@ -45,7 +45,7 @@
 
 ![Alt text](Assets/day2/output-2.png)
 
-# Day 3 of 21 days of React.js
+# Day 3 of 30 days of React.js
 
 - This is module 4(React state and working with State) and 5(Rendering list and conditional rendering)
 - Skills learnt
@@ -69,7 +69,7 @@ Kindly kind rest of the source code in "./sourcecode/day3/"
 
 ![Alt text](Assets/day3/output-3.png)
 
-# Day 4 of 21 days of React.js
+# Day 4 of 30 days of React.js
 
 - This is module 7(styling react components) 8(debugging react apps) 9(2 projects for practice)
 - Skills learnt
@@ -92,3 +92,28 @@ Kindly kind rest of the source code in "./sourcecode/day3/"
 ## Code Sample and Output for project 2 (User Adder)
 
 ![Alt text](Assets/day4/project2-output.png)
+
+# Day 5 of 30 days of React.js
+
+- I learnt about react fragments, useRef hook for forms, useEffect, useReducer
+- Skills learnt
+  - Why to use react Portals and how.
+  - Why to use useRef for forms.
+  - useEffect and useReducer hook and why to use useReducer over useState
+
+## React Portals code + output
+
+![Alt text](Assets/day5/portals.png)
+
+## When to use useReducer hook Code
+
+![Alt text](Assets/day5/whentousereducers.png)
+
+## UseEffect hook + useReducer hook Code
+
+![Alt text](Assets/day5/useEffect&useReducer.png)
+
+## Output for useEffect + useReducer hook
+
+![Alt text](Assets/day5/output-login.png)
+![Alt text](Assets/day5/output-loggedin.png)
