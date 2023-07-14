@@ -117,3 +117,39 @@ Kindly kind rest of the source code in "./sourcecode/day3/"
 
 ![Alt text](Assets/day5/output-login.png)
 ![Alt text](Assets/day5/output-loggedin.png)
+
+## Sate vs reducer
+
+![Alt text](Assets/day5/statevsreducer.png)
+
+# Day 6 of 30 days of React.js
+
+- I learnt about Context Hook
+- Skills learnt
+  - Context i.e context.consumer without hook
+  - Context using hooks
+  - Context using hooks + dynamic by managing provider as well as state and required functions in one single file.
+  - Limitation of context
+  - Three rules of Hooks
+
+Kindly find source code in source code directory
+
+## Context without hooks
+
+![Alt text](Assets/day6/contextWithoutHok.png)
+
+## Context with hook
+
+![Alt text](Assets/day6/contextWithHook.png)
+
+## Custom Provider for managing context
+
+![Alt text](Assets/day6/customProvider.png)
+
+## Limitation of Context
+
+![Alt text](Assets/day6/contextLimitation.png)
+
+## Three rules of Hooks
+
+![Alt text](Assets/day6/Rulesofhooks.png)
