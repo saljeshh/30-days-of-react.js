@@ -118,6 +118,10 @@ Kindly kind rest of the source code in "./sourcecode/day3/"
 ![Alt text](Assets/day5/output-login.png)
 ![Alt text](Assets/day5/output-loggedin.png)
 
+## with and without ref hook
+
+![Alt text](Assets/day5/withandwithoutref.png)
+
 ## Sate vs reducer
 
 ![Alt text](Assets/day5/statevsreducer.png)
@@ -153,3 +157,15 @@ Kindly find source code in source code directory
 ## Three rules of Hooks
 
 ![Alt text](Assets/day6/Rulesofhooks.png)
+
+# Day 7 of 30 days of React.js
+
+- Doing Food Ordering site, there is a bug in cart i couldn't fix today, so code will be updated tomorrow. my mind is not working because of sleep and stress.
+- All skills of useEffect, useContext, useReducer are being used here in this.
+- I learnt new thing today that is forwardRef
+
+## Forward Ref
+
+![Alt text](Assets/day7/forwardRef.png)
+
+Output and code of food ordering project will be updated by tomorrow. Its 12pm soon just minutes left so i need sleep for tomorrow.
