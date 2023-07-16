@@ -169,3 +169,21 @@ Kindly find source code in source code directory
 ![Alt text](Assets/day7/forwardRef.png)
 
 Output and code of food ordering project will be updated by tomorrow. Its 12pm soon just minutes left so i need sleep for tomorrow.
+
+# Day 8 of 30 days of React.js
+
+- Finally fixed the code and finished project
+
+## Code for this project
+
+![Alt text](Assets/day8/code-restroapp.png)
+
+## Component Tree of Project
+
+![Alt text](Assets/day8/componentTree.png)
+
+## Output of project
+
+![Alt text](Assets/day8/output1.png)
+
+![Alt text](Assets/day8/output2.png)
