@@ -187,3 +187,21 @@ Output and code of food ordering project will be updated by tomorrow. Its 12pm s
 ![Alt text](Assets/day8/output1.png)
 
 ![Alt text](Assets/day8/output2.png)
+
+# Day 9 of 30 days of React.js
+
+- Today day 9, i learnt about behind the scenes of React running.
+- Learnt about React.memo() and useMemo() hook and uses for optimizations.
+- Learnt about useCallback() hook and its dependencies by understanding closures.
+- Learnt when state or context changes , react re-renders components.
+- when parent changes or re-renders, the child components are re-rendered.
+
+## Simple one component code for today rest in src file
+
+![Alt text](Assets/day9/code9.png)
+
+## Notes for today from lectures
+
+![Alt text](Assets/day9/stateScheduling.png)
+
+![Alt text](Assets/day9/whenItReRender.png)
