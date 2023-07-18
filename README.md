@@ -205,3 +205,47 @@ Output and code of food ordering project will be updated by tomorrow. Its 12pm s
 ![Alt text](Assets/day9/stateScheduling.png)
 
 ![Alt text](Assets/day9/whenItReRender.png)
+
+# Day 10 of 30 days of React.js
+
+- I did module 15 of Udemy - i.e http request section
+- learnt how to use firebase for database and making post request.
+- Using external apis using .then as well as async await.
+- making post request using fetch()
+- using useCallback() and useEffect() to stop re-render of the fetch() function.
+- uses of custom hooks and where to use it
+- we can use react hooks like state in custom hooks
+
+## Code for module 15 - Http request section
+
+![Alt text](Assets/day10/code.png)
+
+## Firebase screenshot
+
+Here movies are automatically created when doing post request
+
+![Alt text](Assets/day10/firebase.png)
+
+## Output of module 15 - movie app (fetch() +firebase screenshot)
+
+![Alt text](Assets/day10/output.png)
+
+## Code for module 16 - custom Hooks part-1
+
+![Alt text](Assets/day10/code-counter.png)
+
+## Output of module 16 - custom hook part-1 counter app
+
+![Alt text](Assets/day10/output-useCounter.png)
+
+## Code for module 16 - part -2 task adder + firebase
+
+![Alt text](Assets/day10/code-customhook.png)
+
+## Firebase screenshot of module 16 - part 2 task adder
+
+![Alt text](Assets/day10/firebase-taskproject.png)
+
+## Output of module 16 - part 2 task adder
+
+![Alt text](Assets/day10/output-customHTTPhook.png)

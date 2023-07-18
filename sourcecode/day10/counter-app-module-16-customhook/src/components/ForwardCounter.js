@@ -1,0 +1,22 @@
+import useCounter from "../hooks/use-counter";
+import Card from "./Card";
+
+const ForwardCounter = () => {
+  // we have returned counter state from usecounter hook
+  const counter = useCounter(true);
+
+  // after using custom hoook we dont need this now
+  // const [counter, setCounter] = useState(0);
+
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     setCounter((prevCounter) => prevCounter + 1);
+  //   }, 1000);
+
+  //   return () => clearInterval(interval);
+  // }, []);
+
+  return <Card>{counter}</Card>;
+};
+
+export default ForwardCounter;
