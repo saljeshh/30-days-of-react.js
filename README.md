@@ -249,3 +249,11 @@ Here movies are automatically created when doing post request
 ## Output of module 16 - part 2 task adder
 
 ![Alt text](Assets/day10/output-customHTTPhook.png)
+
+# Day 11 of 30 days of React.js
+
+- When to validate and complexity of forms.
+
+![Alt text](Assets/day11/complex_about_forms.png)
+
+![Alt text](Assets/day11/whentoValidate.png)
