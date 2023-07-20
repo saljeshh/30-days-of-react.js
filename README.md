@@ -253,6 +253,10 @@ Here movies are automatically created when doing post request
 # Day 11 of 30 days of React.js
 
 - When to validate and complexity of forms.
+- We need to validate in three different ways like
+  - When form is submitted
+  - When user shift from one input to another
+  - On every key stroke
 
 ![Alt text](Assets/day11/complex_about_forms.png)
 
